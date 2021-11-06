@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SweetP : Personalised Treats
+title: SweetP
 ---
 
-# 🍬 SweetP 🍬
+# 🍬 Coming Very Soon 🍬
 
-## Coming Very Soon
