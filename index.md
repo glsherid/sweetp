@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SweetP | Personalised Treats
 ---
 
 # 🍬 SweetP 🍬
